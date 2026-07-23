@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="8XM.pk@SD",8XM (576p)
+‎http://115.42.65.142:9981/stream/channelid/582886861
+‎#EXTINF:-1 tvg-id="92NewsHD.pk@SD",92 News HD (720p)
+‎http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 #EXTINF:-1, Madani Channel
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/121H/playlist.m3u8
